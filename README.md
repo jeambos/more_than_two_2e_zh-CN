@@ -9,4 +9,10 @@
 
 [Jeambo](jeambos.github.io) 专注于非单偶制领域的书籍引进工作，已经独立（在 AI 辅助下）翻译了 [《道德浪女》全新简体中文版（非台版转换）](https://github.com/jeambos/the_ethical_slut_zh-CN) 和 [《超越单偶制的世界》简体中文版（全网最先）](https://github.com/jeambos/awbm_zh-CN) 两本书。
 
+## Progress
+
 本书预计在 2026 年春季译制完成。如果快的话，2026 过年期间也许就可以完成。
+
+当前已完成：导言（翻译中）
+
+**查看最新commit：[/md_files](/md_files)**
