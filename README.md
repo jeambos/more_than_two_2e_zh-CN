@@ -7,7 +7,7 @@
 
 > 十年后，此书更换了合著者，内容也经过了全面修订，更贴近当代人的情感状态，也回应了最近十年新出现的现实命题。
 
-[Jeambo](jeambos.github.io) 专注于非单偶制领域的书籍引进工作，已经独立（在 AI 辅助下）翻译了 [《道德浪女》全新简体中文版（非台版转换）](https://github.com/jeambos/the_ethical_slut_zh-CN) 和 [《超越单偶制的世界》简体中文版（全网最先）](https://github.com/jeambos/awbm_zh-CN) 两本书。
+[Jeambo](jeambos.github.io) 专注于非单偶制领域的书籍引进工作，已经独立（在 AI 辅助下）翻译了 [《道德浪女》全新简体中文版](https://github.com/jeambos/the_ethical_slut_zh-CN)（非台版转换） 和 [《超越单偶制的世界》简体中文版](https://github.com/jeambos/awbm_zh-CN)（全网最先）两本书。
 
 ## Progress
 
